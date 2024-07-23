@@ -6,40 +6,50 @@
   border-radius: 20px 20px 20px 20px;
 }
 
-#content {
-  background-color: rgb(123, 187, 110);
-  padding: 10px;
-  color: rgb(123, 187, 110);
-  border-radius: 20px 20px 20px 20px;
+.gifDefaultFormatting {
+  width: 480px;
+  height: 270px;
+  border: none; 
 }
 
-#nav {
-  width: 300px;
-  float: left;
-}
-#main {
-  width: 200px;
-  float: left;
+.gifSquareFormatting {
+  width: 480px;
+  height: 480px;
+  border: none; 
 }
 
-#container {
-  background-color: white;
-  width: 700px;
-  margin-left: auto;
-  margin-right: auto;
+#simpsonsNerdGif {
+  height: 351px;
 }
 
-#menu {
-  background-color: aquamarine;
-  padding: 400px;
-  float: right;
-  border: black;
+#bushGif {
+  height: 267px;
 }
 
-#footer {
-  clear: both;
-  background-color: rgb(123, 187, 110);
-  color: white;
-  text-align: center;
-  border-radius: 20px 20px 20px 20px;
+#hackingGif {
+  height: 367px;
+}
+
+#exposedGif {
+  height: 276px;
+}
+
+#noSafetyGif {
+  height: 238px;
+}
+
+#stopGif {
+  height: 398px;
+}
+
+#crossArmsGif {
+  height: 360px;
+}
+
+#sacrificeGif {
+  height: 362px;
+}
+
+#putinGif {
+  height: 475px;
 }
